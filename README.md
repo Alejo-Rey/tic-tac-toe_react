@@ -14,7 +14,7 @@ firts download the repo.
 RUN `git clone https://github.com/Alejo-Rey/tic-tac-toe_react.git && cd tic-tac-toe_react`
 
 Then you need to up the service\
-RUN `docker-compose up -d --build`
+RUN `docker-compose up -d --build`\
 
 ### Edit
 You can edit the code directly in the path of the game or you can manage the container.\

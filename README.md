@@ -24,5 +24,5 @@ once inside the conatiner you can exit of this with the command `exit`
 ### down or stop the service
 You can down the service with:
 `docker-compose down`
-or stop it whit:
+or stop it with:
 `docker-compose stop`
